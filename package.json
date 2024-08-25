@@ -1,0 +1,12 @@
+{
+    "scripts": {
+      "lint": "eslint .",
+      "build": "react-scripts build",   
+      "start": "react-scripts start",   
+      "test": "react-scripts test",    
+      "clean": "rm -rf build",          
+      "prettier": "prettier --write .", 
+      "format": "npm run prettier"     
+    }
+  }
+  
